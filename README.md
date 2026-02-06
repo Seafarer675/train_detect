@@ -26,7 +26,7 @@
 *本專案已上傳至Docker hub，使用時需先準備好Docker環境*
 ### 下載鏡像
 ```
-docker pull <你的 Docker Hub 帳號>/<鏡像名稱>:latest
+docker pull seafarer45/train_detector
 ```
 ### 運行容器
 ```
