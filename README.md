@@ -30,7 +30,7 @@ docker pull <你的 Docker Hub 帳號>/<鏡像名稱>:latest
 ```
 ### 運行容器
 ```
-docker run -p 8000:8000 <你的 Docker Hub 帳號>/<鏡像名稱>:latest
+docker run -p 8000:8000 train_detector:latest
 ```
 *API 會在 http://localhost:8000 運行*
 
