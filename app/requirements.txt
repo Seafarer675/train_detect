@@ -1,0 +1,10 @@
+torch==2.5.0+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+torchvision==0.20.0+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+ultralytics
+fastapi
+uvicorn[standard]
+pillow
+opencv-python-headless
+beautifulsoup4
+requests
+python-multipart
