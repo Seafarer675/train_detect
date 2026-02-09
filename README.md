@@ -32,7 +32,7 @@ docker pull seafarer45/train_detector
 ```
 docker run -p 8000:8000 train_detector:latest
 ```
-*API 會在 http://localhost:8000 運行*
+*API 可在 http://localhost:8000/docs#/ 查看*
 
 # 未來改進方向
 
